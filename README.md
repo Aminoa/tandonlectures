@@ -1,2 +1,2 @@
-# tandonlectures.github.io
+# TandonLectures
 Hosts lectures for Tandon lectures
