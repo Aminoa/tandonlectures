@@ -1,5 +1,5 @@
 # Tandon Lectures
-Hosts lectures for Tandon lectures. Has the following classes:
+Hosts lectures for Tandon lectures. Hosts lectures for the following classes:
 
 - Data Analysis
 - Data Structures
