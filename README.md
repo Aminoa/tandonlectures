@@ -1,4 +1,4 @@
-# Tandon Resources
+# Tandon Syllabi
 Hosts resources for Tandon classes. Hosts resources for the following classes:
 
 - Data Analysis
